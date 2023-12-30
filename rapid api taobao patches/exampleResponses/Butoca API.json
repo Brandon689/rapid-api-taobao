@@ -1,0 +1,481 @@
+{
+    "success": true,
+    "message": "SUCCESS",
+    "data":
+    {
+        "id": 0,
+        "productId": "673792795576",
+        "name": "POPMART泡泡玛特 小甜豆超市系列盲盒手办车载摆件玩具送女生礼物",
+        "rate": 0,
+        "itemUrl": "https://m.intl.taobao.com/detail/detail.html?id=673792795576",
+        "shopId": "2663227607",
+        "shopName": "POP泡泡盲盒",
+        "shopUrl": "https://shop204269481.taobao.com",
+        "sellerLevelIcon": "https://gw.alicdn.com/tfs/TB1Bw2CixrI8KJjy0FpXXb5hVXa-132-24.png",
+        "sellerNick": "大肥羊998",
+        "sellerUrl": "https://shop204269481.taobao.com",
+        "website": "TAOBAO",
+        "startPrice": 35.0,
+        "sellPrice": 684.0,
+        "startPriceDisplay": 0.0,
+        "sellPriceDisplay": 0.0,
+        "stock": 53,
+        "transaction": 0,
+        "repurchaseRate": 0.0,
+        "image": "https://img.alicdn.com/bao/uploaded/i1/2663227607/O1CN01h6SBkZ2643ifWGhYn_!!2663227607.jpg",
+        "imageThumb": "https://img.alicdn.com/bao/uploaded/i1/2663227607/O1CN01h6SBkZ2643ifWGhYn_!!2663227607.jpg",
+        "imgThumbs":
+        [
+            "https://img.alicdn.com/bao/uploaded/i1/2663227607/O1CN01h6SBkZ2643ifWGhYn_!!2663227607.jpg",
+            "https://img.alicdn.com/imgextra/i3/2663227607/O1CN01XrDLTw2643hEQAfIt_!!2663227607.jpg",
+            "https://img.alicdn.com/imgextra/i2/2663227607/O1CN01MOdgFj2643cliZAGc_!!2663227607.png",
+            "https://img.alicdn.com/imgextra/i4/2663227607/O1CN01LWmWdr2643cevIEs6_!!2663227607.jpg",
+            "https://img.alicdn.com/imgextra/i4/2663227607/O1CN01VXFeGk2643chCVyVW_!!2663227607.jpg"
+        ],
+        "skuMaps":
+        [
+            {
+                "propPath": "1627207:3233274;134942334:17119659989",
+                "skuId": "5021430699084",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 47.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:5327498;134942334:17119659989",
+                "skuId": "5021430699085",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 38.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:16508667;134942334:17119659989",
+                "skuId": "5021430699086",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 38.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:3359077;134942334:17119659989",
+                "skuId": "5021430699087",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 49.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:15676776;134942334:17119659989",
+                "skuId": "5021430699088",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 39.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:152004450;134942334:17119659989",
+                "skuId": "5021430699089",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 35.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:20540123805;134942334:17119659989",
+                "skuId": "5021430699090",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 59.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:42473;134942334:17119659989",
+                "skuId": "5021430699091",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 45.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:48637163;134942334:17119659989",
+                "skuId": "5024295447193",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 35.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:110686;134942334:17119659989",
+                "skuId": "5021430699092",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 45.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:92546;134942334:17119659989",
+                "skuId": "5021430699093",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 38.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:126219633;134942334:17119659989",
+                "skuId": "5021430699094",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 69.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:9894102898;134942334:17119659989",
+                "skuId": "5021430699095",
+                "canBookCount": 4,
+                "saleCount": 0,
+                "price": 234.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:9933584359;134942334:17119659989",
+                "skuId": "5021430699096",
+                "canBookCount": 4,
+                "saleCount": 0,
+                "price": 201.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:17623315986;134942334:17119659989",
+                "skuId": "5021430699097",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 52.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:12527595742;134942334:17119659989",
+                "skuId": "4865997936971",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 484.0,
+                "discountPrice": 0.0
+            },
+            {
+                "propPath": "1627207:21123071895;134942334:17119659989",
+                "skuId": "5021430699098",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 684.0,
+                "discountPrice": 0.0
+            }
+        ],
+        "skuMapsAvailable":
+        {
+            "1627207:16508667;134942334:17119659989":
+            {
+                "propPath": "1627207:16508667;134942334:17119659989",
+                "skuId": "5021430699086",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 38.0,
+                "discountPrice": 0.0
+            },
+            "1627207:48637163;134942334:17119659989":
+            {
+                "propPath": "1627207:48637163;134942334:17119659989",
+                "skuId": "5024295447193",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 35.0,
+                "discountPrice": 0.0
+            },
+            "1627207:3233274;134942334:17119659989":
+            {
+                "propPath": "1627207:3233274;134942334:17119659989",
+                "skuId": "5021430699084",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 47.0,
+                "discountPrice": 0.0
+            },
+            "1627207:152004450;134942334:17119659989":
+            {
+                "propPath": "1627207:152004450;134942334:17119659989",
+                "skuId": "5021430699089",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 35.0,
+                "discountPrice": 0.0
+            },
+            "1627207:15676776;134942334:17119659989":
+            {
+                "propPath": "1627207:15676776;134942334:17119659989",
+                "skuId": "5021430699088",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 39.0,
+                "discountPrice": 0.0
+            },
+            "1627207:9933584359;134942334:17119659989":
+            {
+                "propPath": "1627207:9933584359;134942334:17119659989",
+                "skuId": "5021430699096",
+                "canBookCount": 4,
+                "saleCount": 0,
+                "price": 201.0,
+                "discountPrice": 0.0
+            },
+            "1627207:42473;134942334:17119659989":
+            {
+                "propPath": "1627207:42473;134942334:17119659989",
+                "skuId": "5021430699091",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 45.0,
+                "discountPrice": 0.0
+            },
+            "1627207:5327498;134942334:17119659989":
+            {
+                "propPath": "1627207:5327498;134942334:17119659989",
+                "skuId": "5021430699085",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 38.0,
+                "discountPrice": 0.0
+            },
+            "1627207:92546;134942334:17119659989":
+            {
+                "propPath": "1627207:92546;134942334:17119659989",
+                "skuId": "5021430699093",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 38.0,
+                "discountPrice": 0.0
+            },
+            "1627207:12527595742;134942334:17119659989":
+            {
+                "propPath": "1627207:12527595742;134942334:17119659989",
+                "skuId": "4865997936971",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 484.0,
+                "discountPrice": 0.0
+            },
+            "1627207:126219633;134942334:17119659989":
+            {
+                "propPath": "1627207:126219633;134942334:17119659989",
+                "skuId": "5021430699094",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 69.0,
+                "discountPrice": 0.0
+            },
+            "1627207:110686;134942334:17119659989":
+            {
+                "propPath": "1627207:110686;134942334:17119659989",
+                "skuId": "5021430699092",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 45.0,
+                "discountPrice": 0.0
+            },
+            "1627207:9894102898;134942334:17119659989":
+            {
+                "propPath": "1627207:9894102898;134942334:17119659989",
+                "skuId": "5021430699095",
+                "canBookCount": 4,
+                "saleCount": 0,
+                "price": 234.0,
+                "discountPrice": 0.0
+            },
+            "1627207:17623315986;134942334:17119659989":
+            {
+                "propPath": "1627207:17623315986;134942334:17119659989",
+                "skuId": "5021430699097",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 52.0,
+                "discountPrice": 0.0
+            },
+            "1627207:3359077;134942334:17119659989":
+            {
+                "propPath": "1627207:3359077;134942334:17119659989",
+                "skuId": "5021430699087",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 49.0,
+                "discountPrice": 0.0
+            },
+            "1627207:20540123805;134942334:17119659989":
+            {
+                "propPath": "1627207:20540123805;134942334:17119659989",
+                "skuId": "5021430699090",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 59.0,
+                "discountPrice": 0.0
+            },
+            "1627207:21123071895;134942334:17119659989":
+            {
+                "propPath": "1627207:21123071895;134942334:17119659989",
+                "skuId": "5021430699098",
+                "canBookCount": 3,
+                "saleCount": 0,
+                "price": 684.0,
+                "discountPrice": 0.0
+            }
+        },
+        "itemPropertys":
+        [
+            {
+                "type": "COLOR",
+                "title": "颜色分类",
+                "name": "Màu sắc",
+                "childPropertys":
+                [
+                    {
+                         "title": "Coke",
+                         "properties": "1627207:3233274",
+                         "image": "https://img.alicdn.com/imgextra/i1/2663227607/O1CN01c5acvQ2643ccfVmqH_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i1/2663227607/O1CN01c5acvQ2643ccfVmqH_!!2663227607.jpg_500x500.jpg",
+                         "price": 47.0
+                     },
+                     {
+                         "title": "Pot",
+                         "properties": "1627207:5327498",
+                         "image": "https://img.alicdn.com/imgextra/i3/2663227607/O1CN016RTxcK2643cmUKfEF_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i3/2663227607/O1CN016RTxcK2643cmUKfEF_!!2663227607.jpg_500x500.jpg",
+                         "price": 38.0
+                     },
+                     {
+                         "title": "Grape Juice",
+                         "properties": "1627207:16508667",
+                         "image": "https://img.alicdn.com/imgextra/i1/2663227607/O1CN01jO76Hc2643cqSW10c_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i1/2663227607/O1CN01jO76Hc2643cqSW10c_!!2663227607.jpg_500x500.jpg",
+                         "price": 38.0
+                     },
+                    {
+                         "title": "Strawberry Milk",
+                         "properties": "1627207:3359077",
+                         "image": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN010ZskXm2643chJxvdo_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN010ZskXm2643chJxvdo_!!2663227607.jpg_500x500.jpg",
+                         "price": 49.0
+                     },
+                     {
+                         "title": "Cup Noodles",
+                         "properties": "1627207:15676776",
+                         "image": "https://img.alicdn.com/imgextra/i4/2663227607/O1CN01TWxDIf2643chJzGrM_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i4/2663227607/O1CN01TWxDIf2643chJzGrM_!!2663227607.jpg_500x500.jpg",
+                         "price": 39.0
+                     },
+                     {
+                         "title": "Jelly Ice Cream",
+                         "properties": "1627207:152004450",
+                         "image": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN015fEU7p2643ci0lM3L_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN015fEU7p2643ci0lM3L_!!2663227607.jpg_500x500.jpg",
+                         "price": 35.0
+                     },
+                     {
+                         "title": "Paper towels (snot bubbles are easy to break and stick to yourself)",
+                         "properties": "1627207:20540123805",
+                         "image": "https://img.alicdn.com/imgextra/i1/2663227607/O1CN01KJwpCK2643cqSW9X5_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i1/2663227607/O1CN01KJwpCK2643cqSW9X5_!!2663227607.jpg_500x500.jpg",
+                         "price": 59.0
+                     },
+                    {
+                         "title": "Fudge",
+                         "properties": "1627207:42473",
+                         "image": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN01GlDc4d2643ceuz6Wb_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN01GlDc4d2643ceuz6Wb_!!2663227607.jpg_500x500.jpg",
+                         "price": 45.0
+                     },
+                     {
+                         "title": "Quick-frozen dumplings",
+                         "properties": "1627207:48637163",
+                         "image": "https://img.alicdn.com/imgextra/i3/2663227607/O1CN01DbmRL72643clBlUnA_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i3/2663227607/O1CN01DbmRL72643clBlUnA_!!2663227607.jpg_500x500.jpg",
+                         "price": 35.0
+                     },
+                     {
+                         "title": "Popcorn",
+                         "properties": "1627207:110686",
+                         "image": "https://img.alicdn.com/imgextra/i3/2663227607/O1CN013qnCOM2643coSy6wn_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i3/2663227607/O1CN013qnCOM2643coSy6wn_!!2663227607.jpg_500x500.jpg",
+                         "price": 45.0
+                     },
+                     {
+                         "title": "Potato Chips",
+                         "properties": "1627207:92546",
+                         "image": "https://img.alicdn.com/imgextra/i3/2663227607/O1CN01KauBU82643cliHRCt_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i3/2663227607/O1CN01KauBU82643cliHRCt_!!2663227607.jpg_500x500.jpg",
+                         "price": 38.0
+                     },
+                     {
+                         "title": "Koala Cookies",
+                         "properties": "1627207:126219633",
+                         "image": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN01JGH2vw2643ckmaRpP_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN01JGH2vw2643ckmaRpP_!!2663227607.jpg_500x500.jpg",
+                         "price": 69.0
+                     },
+                     {
+                         "title": "Hidden Item-Shopping Cart Baby",
+                         "properties": "1627207:9894102898",
+                         "image": "https://img.alicdn.com/imgextra/i3/2663227607/O1CN01pXpE1m2643chCLEVF_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i3/2663227607/O1CN01pXpE1m2643chCLEVF_!!2663227607.jpg_500x500.jpg",
+                         "price": 234.0
+                     },
+                    {
+                         "title": "Super Hidden Money - Cashier",
+                         "properties": "1627207:9933584359",
+                         "image": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN01Ak2Me92643cmUZMn4_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN01Ak2Me92643cmUZMn4_!!2663227607.jpg_500x500.jpg",
+                         "price": 201.0
+                     },
+                     {
+                         "title": "Brand new single unopened random blind box",
+                         "properties": "1627207:17623315986",
+                         "image": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN016doaCa2643coT8JgD_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN016doaCa2643coT8JgD_!!2663227607.jpg_500x500.jpg",
+                         "price": 52.0
+                     },
+                     {
+                         "title": "Twelve unpacked basic models",
+                         "properties": "1627207:12527595742",
+                         "image": "https://img.alicdn.com/imgextra/i3/2663227607/O1CN01gcDYmY2643dleLRNW_!!2663227607.png_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i3/2663227607/O1CN01gcDYmY2643dleLRNW_!!2663227607.png_500x500.jpg",
+                         "price": 484.0
+                     },
+                     {
+                         "title": "Brand new full box with unopened plastic seal (probability hidden model)",
+                         "properties": "1627207:21123071895",
+                         "image": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN01L2e1lU2643cpehIAw_!!2663227607.jpg_500x500.jpg",
+                         "bigImage": "https://img.alicdn.com/imgextra/i2/2663227607/O1CN01L2e1lU2643cpehIAw_!!2663227607.jpg_500x500.jpg",
+                         "price": 684.0
+                     }
+                ]
+            },
+            {
+                "type": "OTHER",
+                "title": "大小",
+                "name": "Khác",
+                "childPropertys":
+                [
+                    {
+                        "title": "原装正品-未拆盒/拆盒不拆袋",
+                        "properties": "134942334:17119659989",
+                        "price": 35.0
+                    }
+                ]
+            }
+        ],
+        "aliwangwang": "大肥羊998",
+        "dataItem": "{\"1627207:12527595742;134942334:17119659989\":{\"edit\":false,\"skuId\":\"4865997936971\",\"price\":\"484\",\"canBookCount\":3},\"1627207:48637163;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5024295447193\",\"price\":\"35\",\"canBookCount\":3},\"1627207:152004450;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699089\",\"price\":\"35\",\"canBookCount\":3},\"1627207:3359077;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699087\",\"price\":\"49\",\"canBookCount\":3},\"1627207:21123071895;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699098\",\"price\":\"684\",\"canBookCount\":3},\"1627207:15676776;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699088\",\"price\":\"39\",\"canBookCount\":3},\"1627207:110686;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699092\",\"price\":\"45\",\"canBookCount\":3},\"1627207:92546;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699093\",\"price\":\"38\",\"canBookCount\":3},\"1627207:20540123805;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699090\",\"price\":\"59\",\"canBookCount\":3},\"1627207:42473;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699091\",\"price\":\"45\",\"canBookCount\":3},\"1627207:5327498;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699085\",\"price\":\"38\",\"canBookCount\":3},\"1627207:9933584359;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699096\",\"price\":\"201\",\"canBookCount\":4},\"1627207:16508667;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699086\",\"price\":\"38\",\"canBookCount\":3},\"1627207:17623315986;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699097\",\"price\":\"52\",\"canBookCount\":3},\"1627207:126219633;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699094\",\"price\":\"69\",\"canBookCount\":3},\"1627207:3233274;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699084\",\"price\":\"47\",\"canBookCount\":3},\"1627207:9894102898;134942334:17119659989\":{\"edit\":false,\"skuId\":\"5021430699095\",\"price\":\"234\",\"canBookCount\":4}}",
+        "freightWeight": 0.0,
+        "isDetailContent": false,
+        "transalated": false,
+        "categoryId": "122692006",
+        "complete": false
+    }
+}
